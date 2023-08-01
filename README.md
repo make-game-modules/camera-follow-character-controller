@@ -1,5 +1,7 @@
 # Camera Follow Character Controller
 
+[中文](https://github.com/make-game-modules/camera-follow-character-controller/blob/main/README.zh-cn.md)
+
 This project provides a Unity script that makes the camera follow the character's movement smoothly. This script needs to be attached to the camera.
 
 ## How to Install

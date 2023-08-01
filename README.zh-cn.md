@@ -1,7 +1,5 @@
 # 摄像机跟随角色控制器
 
-[English](https://github.com/make-game-modules/camera-follow-character-controller/blob/main/README.en.md)
-
 这个项目提供了一个 Unity 脚本，可以使摄像机平滑地跟随角色的移动。此脚本需要挂载在摄像机上。
 
 ## 如何安装
